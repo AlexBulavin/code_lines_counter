@@ -1,5 +1,5 @@
 # code_lines_counter
-Bash script calculate count code lines wrote, deleted and changed in local repo. It is extre
+Bash script calculate count code lines wrote, deleted and changed in local repo.
 
 Скрипт вычисляет количество строк кода в локальном репозитории за указанный пользователем период и со времени создания репозитория
 Создаёт в папке репозитория вложенную папку statistics, а в ней два файла с данными repo_periodic_statistics.txt и repo_total_statistics.txt
